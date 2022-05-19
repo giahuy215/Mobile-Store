@@ -3,10 +3,12 @@
 			<div class="f1">
 				<div class="col-xs-12 col-sm-3">
 					<div class="tit-boxmain">
-						<h3><span>Phụ kiện</span></h3>
+						<h3><span>Thông tin & liên hệ</span></h3>
 					</div>
 					<div class="ct-boxft1">
-						<p><span>Chúng tôi chỉ bán hàng chính hãng</span></p>
+						<p><span>HMS là địa chỉ bán điện thoại uy tín, chất lượng phục vụ tốt.</span></p>
+						<p><span>Địa chỉ: 273 An Dương Vương, P.3, Q.5, Tp.HCM</span></p>
+						<p><span>SĐT: 0123456789</span></p>
 					</div>
 				</div>
 				<div class="col-xs-12 col-sm-3">
